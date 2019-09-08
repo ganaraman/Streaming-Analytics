@@ -1,2 +1,2 @@
-# Streaming-Analytics
-Use Cases and Demos on Real Time Streaming and visualizations
+# Cloudera Data Science Workbench
+Use Cases and Demos on CDSW
